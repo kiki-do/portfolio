@@ -16,9 +16,9 @@ export const Card = () => {
 					<p className="text-lg mt-4 mb-6 md:text-2xl">
 						Я&nbsp;
 						<span className="font-semibold text-teal-600">
-							Frontend-разработчик&nbsp;
+							Frontend-разработчик
 						</span>
-						,живу в Санкт-Петербурге. Работаю над созданием сайтов и
+						,&nbsp;живу в Санкт-Петербурге. Работаю над созданием сайтов и
 						web-приложении, которые делает жизнь проще и осмысленнее.
 					</p>
 					<Link
